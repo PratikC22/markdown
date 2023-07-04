@@ -40,6 +40,7 @@ const classes = {
   },
   markdownContainer: {
     flex: 1,
+    overflow: "auto",
     background: "#fff",
     padding: 8,
   },
